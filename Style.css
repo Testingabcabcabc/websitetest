@@ -1,0 +1,11 @@
+.testclass{
+    text-align: center;
+    color: black;
+    transition: 0.5s;
+}
+.testclass:hover{
+    color: red;
+}
+.h3{
+    border-color: red;
+}
